@@ -127,9 +127,17 @@ proteção de ambientes corporativos e controle de tráfego.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=killersd&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=killersd&show_icons=true&theme=github_dark&hide_border=true"
+  alt="Estatísticas do GitHub"
+  height="180"
+/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killersd&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=killersd&layout=compact&theme=github_dark&hide_border=true"
+  alt="Linguagens mais utilizadas"
+  height="180"
+/>
 
 </div>
 
