@@ -122,27 +122,6 @@ proteção de ambientes corporativos e controle de tráfego.
 - Diagnóstico de incidentes e suporte à segurança dos serviços.
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=killersd&show_icons=true&theme=github_dark&hide_border=true"
-  alt="Estatísticas do GitHub"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=killersd&layout=compact&theme=github_dark&hide_border=true"
-  alt="Linguagens mais utilizadas"
-  height="180"
-/>
-
-</div>
-
----
-
 <div align="center">
 
 ### Tecnologia, desenvolvimento e infraestrutura trabalhando juntos. 🚀
