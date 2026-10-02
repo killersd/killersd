@@ -19,7 +19,7 @@ infraestrutura de TI, redes corporativas e segurança da informação.
 
 ## 👨‍💻 Sobre mim
 
-Atualmente, sou **Analista de Tecnologia da Informação no HU Brasil**, atuando em diferentes frentes da tecnologia, desde o desenvolvimento de aplicações até o gerenciamento de infraestrutura e segurança de ambientes corporativos.
+Atualmente, sou **Analista de Tecnologia da Informação no HU Brasil**, atuando em diferentes frentes da tecnologia, desde o desenvolvimento de aplicações web até o gerenciamento de infraestrutura e segurança de ambientes corporativos.
 
 Minha atuação combina desenvolvimento **Full Stack**, práticas de **DevOps**, administração de servidores, gerenciamento de redes e implementação de soluções voltadas à disponibilidade, segurança e eficiência dos serviços de TI.
 
